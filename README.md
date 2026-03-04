@@ -11,7 +11,9 @@ To run the code in `/code/explore_vectorspace/semantic_projection.py` execute th
 
 Replace `PATH-TO` by the path to your local copy of this code repository.
 
-```python explore_vectorspace/semantic_projection.py --vectorspace=PATH-TO/LVC-event-duration/code/io/ppmi.txt --basis-dimension=2000 --lvcs=PATH-TO/LVC-event-duration/code/io/LVC-FVC-pairs.csv --projection-words=PATH-TO/LVC-event-duration/code/io/duration_liu_chersoni.csv --output=PATH-TO/LVC-event-duration/code/io/projection_plain_verbs```
+```
+python explore_vectorspace/semantic_projection.py --vectorspace=PATH-TO/LVC-event-duration/code/io/ppmi.txt --basis-dimension=2000 --lvcs=PATH-TO/LVC-event-duration/code/io/LVC-FVC-pairs.csv --projection-words=PATH-TO/LVC-event-duration/code/io/duration_liu_chersoni.csv --output=PATH-TO/LVC-event-duration/code/io/projection_plain_verbs
+```
 
 # Licence
 Distributed under MIT licence.  See LICENSE for more details.
