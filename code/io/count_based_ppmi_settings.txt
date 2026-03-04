@@ -1,0 +1,4 @@
+--vectorspace True
+<vectorspace> PATH-TO/LVC-event-duration/code/io/VS.txt
+--output True
+<output> PATH-TO/LVC-event-duration/code/io

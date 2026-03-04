@@ -1,0 +1,11 @@
+The licencing of BNC1994 and BNC2014 do not allow to publish an edited version of the corpus.
+
+You will need to obtain your own copy of the corpora through:
+
+BNC1994: http://www.natcorp.ox.ac.uk
+BNC2014: http://corpora.lancs.ac.uk/bnc2014/
+
+Next, you need to preprocess the corpora to obtain the required lemma_POS format:
+run the code in preprocess/preprocess_bnc.py
+
+Sentences that contain Light Verb Constructions (LVCs) and Full Verb Constructions (FVCs) can be obtained by running the code in preprocess/extract_lvc_fvc_sentences.py and preprocess/process_lvc_fvc_sentences.py

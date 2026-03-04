@@ -1,0 +1,13 @@
+rule anonymise_numerals_frequency_counts:
+	output:
+		log = "LOG_extract_lvc_fvc_sentences.txt"
+	resources:
+		disk_mb=20000,
+		mem_mb=64000
+	shell:
+		"""
+		module purge
+		module load  Python/3.12.3-GCCcore-13.3.0
+
+		python3 extract_lvc_fvc_sentences.py --lvcs=EN_LVCs_single_word_fvc.csv --bnc=no_ART-PUNC-UNC-TRUNC-INTERJ --bnc-no-lem-pos=NOT_LEM-no_POS-PUNC-UNC-TRUNC-INTERJ --target-words=target_words.csv --output=lvc_fvc_sentences > {output.log}
+		"""

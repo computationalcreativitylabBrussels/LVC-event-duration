@@ -1,0 +1,355 @@
+Cossim Spearman's Rho,Cossim p-value,Eucldist Spearman's Rho,Eucldist p-value,Dotprod Spearman's Rho,Dotprod p-value,#words not found,# pairs processed,% pairs processed
+
+0,3734837486053757;9,219227831906871e-10;-0,33075846562820693;7,589939628288901e-08;0,2951724979108277;1,8504389513402625e-06;83;252;71,39
+
+
+Cosine Similarity Spearman's Rho: SignificanceResult(statistic=0.3734837486053757, pvalue=9.219227831906871e-10)
+
+Euclidean Distance Spearman's Rho: SignificanceResult(statistic=-0.33075846562820693, pvalue=7.589939628288901e-08)
+
+Dot product Spearman's Rho: SignificanceResult(statistic=0.2951724979108277, pvalue=1.8504389513402625e-06)
+
+No word embedding found for 83 words
+
+Processed word pairs 252 pairs, 71.39%
+
+No word embedding found for:
+
+constellation_SUBST
+rooster_SUBST
+magician_SUBST
+proximity_SUBST
+carnivore_SUBST
+quarrel_SUBST
+viewer_SUBST
+kilometer_SUBST
+artifact_SUBST
+stupid_SUBST
+closet_SUBST
+children_SUBST
+jaguar_SUBST
+center_SUBST
+ecology_SUBST
+rabbi_SUBST
+canyon_SUBST
+sprint_SUBST
+holy_SUBST
+virtuoso_SUBST
+opec_SUBST
+hike_SUBST
+five_SUBST
+fertility_SUBST
+defeating_SUBST
+seepage_SUBST
+oracle_SUBST
+hundred_SUBST
+seven_SUBST
+proton_SUBST
+arafat_SUBST
+valor_SUBST
+astronomer_SUBST
+fbi_SUBST
+lobster_SUBST
+thunderstorm_SUBST
+listing_SUBST
+feline_SUBST
+yen_SUBST
+earning_SUBST
+morality_SUBST
+maradona_SUBST
+laundering_SUBST
+recess_SUBST
+voyage_SUBST
+psychiatry_SUBST
+cognition_SUBST
+madhouse_SUBST
+theater_SUBST
+exhibit_SUBST
+live_SUBST
+wizard_SUBST
+harvard_SUBST
+impartiality_SUBST
+departure_SUBST
+hypertension_SUBST
+benchmark_SUBST
+monk_SUBST
+noon_SUBST
+antecedent_SUBST
+prominence_SUBST
+yale_SUBST
+seafood_SUBST
+drought_SUBST
+aluminum_SUBST
+implement_SUBST
+manslaughter_SUBST
+senate_SUBST
+troops_SUBST
+fauna_SUBST
+deployment_SUBST
+serial_SUBST
+computation_SUBST
+preservation_SUBST
+entity_SUBST
+motto_SUBST
+smart_SUBST
+soccer_SUBST
+tableware_SUBST
+automobile_SUBST
+inmate_SUBST
+eat_SUBST
+memorabilia_SUBST
+
+Processed word pairs:
+
+love_SUBST sex_SUBST
+tiger_SUBST cat_SUBST
+tiger_SUBST tiger_SUBST
+book_SUBST paper_SUBST
+computer_SUBST keyboard_SUBST
+computer_SUBST internet_SUBST
+plane_SUBST car_SUBST
+train_SUBST car_SUBST
+telephone_SUBST communication_SUBST
+television_SUBST radio_SUBST
+media_SUBST radio_SUBST
+drug_SUBST abuse_SUBST
+bread_SUBST butter_SUBST
+cucumber_SUBST potato_SUBST
+doctor_SUBST nurse_SUBST
+professor_SUBST doctor_SUBST
+student_SUBST professor_SUBST
+company_SUBST stock_SUBST
+stock_SUBST market_SUBST
+stock_SUBST phone_SUBST
+stock_SUBST cd_SUBST
+stock_SUBST egg_SUBST
+stock_SUBST life_SUBST
+book_SUBST library_SUBST
+bank_SUBST money_SUBST
+wood_SUBST forest_SUBST
+money_SUBST cash_SUBST
+professor_SUBST cucumber_SUBST
+king_SUBST cabbage_SUBST
+king_SUBST queen_SUBST
+king_SUBST rook_SUBST
+jerusalem_SUBST israel_SUBST
+jerusalem_SUBST palestinian_SUBST
+fuck_SUBST sex_SUBST
+football_SUBST basketball_SUBST
+football_SUBST tennis_SUBST
+tennis_SUBST racket_SUBST
+law_SUBST lawyer_SUBST
+movie_SUBST star_SUBST
+movie_SUBST popcorn_SUBST
+movie_SUBST critic_SUBST
+physics_SUBST chemistry_SUBST
+space_SUBST chemistry_SUBST
+alcohol_SUBST chemistry_SUBST
+vodka_SUBST gin_SUBST
+vodka_SUBST brandy_SUBST
+drink_SUBST car_SUBST
+drink_SUBST ear_SUBST
+drink_SUBST mouth_SUBST
+baby_SUBST mother_SUBST
+drink_SUBST mother_SUBST
+gem_SUBST jewel_SUBST
+boy_SUBST lad_SUBST
+coast_SUBST shore_SUBST
+furnace_SUBST stove_SUBST
+food_SUBST fruit_SUBST
+bird_SUBST cock_SUBST
+bird_SUBST crane_SUBST
+lad_SUBST brother_SUBST
+journey_SUBST car_SUBST
+cemetery_SUBST woodland_SUBST
+coast_SUBST hill_SUBST
+forest_SUBST graveyard_SUBST
+shore_SUBST woodland_SUBST
+coast_SUBST forest_SUBST
+chord_SUBST smile_SUBST
+money_SUBST dollar_SUBST
+money_SUBST cash_SUBST
+money_SUBST currency_SUBST
+money_SUBST wealth_SUBST
+money_SUBST property_SUBST
+money_SUBST possession_SUBST
+money_SUBST bank_SUBST
+money_SUBST deposit_SUBST
+money_SUBST withdrawal_SUBST
+money_SUBST operation_SUBST
+tiger_SUBST mammal_SUBST
+tiger_SUBST animal_SUBST
+tiger_SUBST organism_SUBST
+tiger_SUBST zoo_SUBST
+psychology_SUBST anxiety_SUBST
+psychology_SUBST fear_SUBST
+psychology_SUBST depression_SUBST
+psychology_SUBST clinic_SUBST
+psychology_SUBST doctor_SUBST
+psychology_SUBST freud_SUBST
+psychology_SUBST mind_SUBST
+psychology_SUBST health_SUBST
+psychology_SUBST science_SUBST
+psychology_SUBST discipline_SUBST
+planet_SUBST star_SUBST
+planet_SUBST moon_SUBST
+planet_SUBST sun_SUBST
+planet_SUBST galaxy_SUBST
+planet_SUBST space_SUBST
+precedent_SUBST example_SUBST
+precedent_SUBST information_SUBST
+precedent_SUBST law_SUBST
+precedent_SUBST collection_SUBST
+precedent_SUBST group_SUBST
+cup_SUBST coffee_SUBST
+cup_SUBST article_SUBST
+cup_SUBST object_SUBST
+cup_SUBST drink_SUBST
+cup_SUBST food_SUBST
+cup_SUBST substance_SUBST
+cup_SUBST liquid_SUBST
+energy_SUBST secretary_SUBST
+energy_SUBST laboratory_SUBST
+computer_SUBST laboratory_SUBST
+weapon_SUBST secret_SUBST
+investigation_SUBST effort_SUBST
+mars_SUBST water_SUBST
+mars_SUBST scientist_SUBST
+news_SUBST report_SUBST
+image_SUBST surface_SUBST
+discovery_SUBST space_SUBST
+wednesday_SUBST news_SUBST
+computer_SUBST news_SUBST
+territory_SUBST surface_SUBST
+atmosphere_SUBST landscape_SUBST
+president_SUBST medal_SUBST
+record_SUBST number_SUBST
+skin_SUBST eye_SUBST
+japanese_SUBST american_SUBST
+prejudice_SUBST recognition_SUBST
+century_SUBST year_SUBST
+century_SUBST nation_SUBST
+delay_SUBST racism_SUBST
+delay_SUBST news_SUBST
+minister_SUBST party_SUBST
+peace_SUBST plan_SUBST
+minority_SUBST peace_SUBST
+attempt_SUBST peace_SUBST
+government_SUBST crisis_SUBST
+energy_SUBST crisis_SUBST
+announcement_SUBST news_SUBST
+announcement_SUBST effort_SUBST
+stroke_SUBST hospital_SUBST
+disability_SUBST death_SUBST
+victim_SUBST emergency_SUBST
+treatment_SUBST recovery_SUBST
+journal_SUBST association_SUBST
+doctor_SUBST personnel_SUBST
+doctor_SUBST liability_SUBST
+liability_SUBST insurance_SUBST
+reason_SUBST criterion_SUBST
+hospital_SUBST infrastructure_SUBST
+death_SUBST row_SUBST
+lawyer_SUBST evidence_SUBST
+life_SUBST death_SUBST
+life_SUBST term_SUBST
+word_SUBST similarity_SUBST
+board_SUBST recommendation_SUBST
+governor_SUBST interview_SUBST
+peace_SUBST atmosphere_SUBST
+peace_SUBST insurance_SUBST
+travel_SUBST activity_SUBST
+competition_SUBST price_SUBST
+consumer_SUBST confidence_SUBST
+consumer_SUBST energy_SUBST
+problem_SUBST airport_SUBST
+car_SUBST flight_SUBST
+credit_SUBST card_SUBST
+credit_SUBST information_SUBST
+hotel_SUBST reservation_SUBST
+grocery_SUBST money_SUBST
+registration_SUBST arrangement_SUBST
+arrangement_SUBST accommodation_SUBST
+month_SUBST hotel_SUBST
+type_SUBST kind_SUBST
+arrival_SUBST hotel_SUBST
+situation_SUBST conclusion_SUBST
+situation_SUBST isolation_SUBST
+direction_SUBST combination_SUBST
+street_SUBST place_SUBST
+street_SUBST avenue_SUBST
+street_SUBST block_SUBST
+cell_SUBST phone_SUBST
+media_SUBST trading_SUBST
+media_SUBST gain_SUBST
+dividend_SUBST payment_SUBST
+dividend_SUBST calculation_SUBST
+currency_SUBST market_SUBST
+oil_SUBST stock_SUBST
+announcement_SUBST production_SUBST
+announcement_SUBST warning_SUBST
+profit_SUBST warning_SUBST
+profit_SUBST loss_SUBST
+dollar_SUBST buck_SUBST
+dollar_SUBST profit_SUBST
+dollar_SUBST loss_SUBST
+computer_SUBST software_SUBST
+network_SUBST hardware_SUBST
+phone_SUBST equipment_SUBST
+equipment_SUBST maker_SUBST
+luxury_SUBST car_SUBST
+report_SUBST gain_SUBST
+liquid_SUBST water_SUBST
+baseball_SUBST season_SUBST
+game_SUBST victory_SUBST
+game_SUBST team_SUBST
+game_SUBST series_SUBST
+game_SUBST defeat_SUBST
+food_SUBST preparation_SUBST
+video_SUBST archive_SUBST
+start_SUBST year_SUBST
+start_SUBST match_SUBST
+game_SUBST round_SUBST
+boxing_SUBST round_SUBST
+championship_SUBST tournament_SUBST
+line_SUBST insurance_SUBST
+day_SUBST summer_SUBST
+summer_SUBST nature_SUBST
+day_SUBST dawn_SUBST
+nature_SUBST environment_SUBST
+nature_SUBST man_SUBST
+man_SUBST woman_SUBST
+man_SUBST governor_SUBST
+soap_SUBST opera_SUBST
+opera_SUBST performance_SUBST
+life_SUBST lesson_SUBST
+focus_SUBST life_SUBST
+production_SUBST crew_SUBST
+television_SUBST film_SUBST
+possibility_SUBST girl_SUBST
+population_SUBST development_SUBST
+mexico_SUBST brazil_SUBST
+gender_SUBST equality_SUBST
+change_SUBST attitude_SUBST
+family_SUBST planning_SUBST
+opera_SUBST industry_SUBST
+sugar_SUBST approach_SUBST
+practice_SUBST institution_SUBST
+ministry_SUBST culture_SUBST
+problem_SUBST challenge_SUBST
+country_SUBST citizen_SUBST
+planet_SUBST people_SUBST
+development_SUBST issue_SUBST
+experience_SUBST music_SUBST
+music_SUBST project_SUBST
+glass_SUBST metal_SUBST
+chance_SUBST credibility_SUBST
+rock_SUBST jazz_SUBST
+observation_SUBST architecture_SUBST
+space_SUBST world_SUBST
+admission_SUBST ticket_SUBST
+shower_SUBST flood_SUBST
+weather_SUBST forecast_SUBST
+disaster_SUBST area_SUBST
+governor_SUBST office_SUBST
+architecture_SUBST century_SUBST

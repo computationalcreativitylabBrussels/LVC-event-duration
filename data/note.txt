@@ -1,0 +1,13 @@
+- Combined word counts from BNC1994 and BNC2014:
+	
+	ANON_NUM_-BNC_COMBINED-freq-no_ART-PUNC-UNC-TRUNC-INTERJ_pipeline.txt
+
+
+- Light Verb Construction - Full Verb Construction pairs:
+
+	CORRECTED_EN_LVCs_single_word_fvc.csv
+
+
+- Words used to construct the Duration scale
+
+	duration_liu_chersoni.csv

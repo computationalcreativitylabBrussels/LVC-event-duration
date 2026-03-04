@@ -1,0 +1,982 @@
+Cossim Spearman's Rho,Cossim p-value,Eucldist Spearman's Rho,Eucldist p-value,Dotprod Spearman's Rho,Dotprod p-value,#words not found,# pairs processed,% pairs processed
+
+0,12594957479567012;0,00024422537220751816;0,015413246820880617;0,6547713721018593;0,16778277595360286;9,489634364423995e-07;118;844;84,48
+
+
+Cosine Similarity Spearman's Rho: SignificanceResult(statistic=0.12594957479567012, pvalue=0.00024422537220751816)
+
+Euclidean Distance Spearman's Rho: SignificanceResult(statistic=0.015413246820880617, pvalue=0.6547713721018593)
+
+Dot product Spearman's Rho: SignificanceResult(statistic=0.16778277595360286, pvalue=9.489634364423995e-07)
+
+No word embedding found for 118 words
+
+Processed word pairs 844 pairs, 84.48%
+
+No word embedding found for:
+
+abdomen_SUBST
+suds_SUBST
+competence_SUBST
+haze_SUBST
+sunrise_SUBST
+sheriff_SUBST
+steeple_SUBST
+childish_ADJ
+prey_SUBST
+adversary_SUBST
+immoral_ADJ
+anatomy_SUBST
+elegance_SUBST
+attorney_SUBST
+beverage_SUBST
+seashore_SUBST
+hostility_SUBST
+anarchy_SUBST
+spine_SUBST
+hysteria_SUBST
+prestige_SUBST
+crib_SUBST
+mob_SUBST
+impatient_ADJ
+accomplish_VERB
+verdict_SUBST
+legion_SUBST
+endurance_SUBST
+mare_SUBST
+sentry_SUBST
+sorrow_SUBST
+ballad_SUBST
+cooperate_VERB
+despair_SUBST
+disorganize_VERB
+cherish_VERB
+scarce_ADJ
+motel_SUBST
+exotic_ADJ
+aviation_SUBST
+closet_SUBST
+dreary_ADJ
+laden_ADJ
+fame_SUBST
+gauge_SUBST
+drizzle_SUBST
+comprehend_VERB
+vanish_VERB
+melody_SUBST
+composer_SUBST
+men_SUBST
+quest_SUBST
+fury_SUBST
+noticeable_ADJ
+sweater_SUBST
+swamp_SUBST
+opponent_SUBST
+creator_SUBST
+originate_VERB
+physician_SUBST
+verify_VERB
+plenty_SUBST
+catastrophe_SUBST
+intuition_SUBST
+whiskey_SUBST
+elastic_ADJ
+roam_VERB
+victor_SUBST
+abundance_SUBST
+liquor_SUBST
+companion_SUBST
+fraternity_SUBST
+marijuana_SUBST
+heroine_SUBST
+elevator_SUBST
+rabbi_SUBST
+canyon_SUBST
+monk_SUBST
+restless_ADJ
+brow_SUBST
+proclaim_VERB
+burial_SUBST
+hawk_SUBST
+ox_SUBST
+archbishop_SUBST
+booth_SUBST
+ledge_SUBST
+fragile_ADJ
+colt_SUBST
+aluminum_SUBST
+pact_SUBST
+frigid_ADJ
+hurricane_SUBST
+discourage_VERB
+mink_SUBST
+anchor_SUBST
+rationalize_VERB
+teeth_SUBST
+conquest_SUBST
+cradle_SUBST
+rattle_SUBST
+might_SUBST
+denial_SUBST
+hallway_SUBST
+imitate_VERB
+magnitude_SUBST
+marrow_SUBST
+polyester_SUBST
+violation_SUBST
+helium_SUBST
+charcoal_SUBST
+inquire_VERB
+linen_SUBST
+sly_ADJ
+orthodontist_SUBST
+groom_SUBST
+inexpensive_ADJ
+dusk_SUBST
+
+Processed word pairs:
+
+old_ADJ new_ADJ
+smart_ADJ intelligent_ADJ
+hard_ADJ difficult_ADJ
+happy_ADJ cheerful_ADJ
+hard_ADJ easy_ADJ
+fast_ADJ rapid_ADJ
+happy_ADJ glad_ADJ
+short_ADJ long_ADJ
+stupid_ADJ dumb_ADJ
+weird_ADJ strange_ADJ
+wide_ADJ narrow_ADJ
+bad_ADJ awful_ADJ
+easy_ADJ difficult_ADJ
+bad_ADJ terrible_ADJ
+hard_ADJ simple_ADJ
+smart_ADJ dumb_ADJ
+insane_ADJ crazy_ADJ
+happy_ADJ mad_ADJ
+large_ADJ huge_ADJ
+hard_ADJ tough_ADJ
+new_ADJ fresh_ADJ
+sharp_ADJ dull_ADJ
+quick_ADJ rapid_ADJ
+dumb_ADJ foolish_ADJ
+wonderful_ADJ terrific_ADJ
+strange_ADJ odd_ADJ
+happy_ADJ angry_ADJ
+narrow_ADJ broad_ADJ
+simple_ADJ easy_ADJ
+old_ADJ fresh_ADJ
+apparent_ADJ obvious_ADJ
+nice_ADJ generous_ADJ
+weird_ADJ normal_ADJ
+weird_ADJ odd_ADJ
+sad_ADJ funny_ADJ
+wonderful_ADJ great_ADJ
+guilty_ADJ ashamed_ADJ
+beautiful_ADJ wonderful_ADJ
+confident_ADJ sure_ADJ
+dumb_ADJ dense_ADJ
+large_ADJ big_ADJ
+nice_ADJ cruel_ADJ
+big_ADJ broad_ADJ
+strong_ADJ proud_ADJ
+unnecessary_ADJ necessary_ADJ
+dumb_ADJ intelligent_ADJ
+bad_ADJ great_ADJ
+difficult_ADJ simple_ADJ
+necessary_ADJ important_ADJ
+bad_ADJ terrific_ADJ
+mad_ADJ glad_ADJ
+honest_ADJ guilty_ADJ
+easy_ADJ tough_ADJ
+easy_ADJ flexible_ADJ
+certain_ADJ sure_ADJ
+essential_ADJ necessary_ADJ
+different_ADJ normal_ADJ
+crucial_ADJ important_ADJ
+harsh_ADJ cruel_ADJ
+friendly_ADJ generous_ADJ
+long_ADJ narrow_ADJ
+big_ADJ heavy_ADJ
+bizarre_ADJ strange_ADJ
+bad_ADJ guilty_ADJ
+modern_ADJ ancient_ADJ
+new_ADJ ancient_ADJ
+dull_ADJ funny_ADJ
+happy_ADJ young_ADJ
+easy_ADJ big_ADJ
+great_ADJ awful_ADJ
+tiny_ADJ huge_ADJ
+polite_ADJ proper_ADJ
+modest_ADJ ashamed_ADJ
+dumb_ADJ clever_ADJ
+delightful_ADJ wonderful_ADJ
+afraid_ADJ anxious_ADJ
+formal_ADJ proper_ADJ
+delightful_ADJ cheerful_ADJ
+unhappy_ADJ mad_ADJ
+sad_ADJ terrible_ADJ
+sick_ADJ crazy_ADJ
+violent_ADJ angry_ADJ
+dirty_ADJ cheap_ADJ
+hard_ADJ dense_ADJ
+recent_ADJ new_ADJ
+bold_ADJ proud_ADJ
+dumb_ADJ rare_ADJ
+terrific_ADJ mad_ADJ
+modest_ADJ flexible_ADJ
+fresh_ADJ wide_ADJ
+huge_ADJ dumb_ADJ
+large_ADJ flexible_ADJ
+dirty_ADJ narrow_ADJ
+wife_SUBST husband_SUBST
+book_SUBST text_SUBST
+night_SUBST day_SUBST
+south_SUBST north_SUBST
+plane_SUBST airport_SUBST
+uncle_SUBST aunt_SUBST
+bottom_SUBST top_SUBST
+friend_SUBST buddy_SUBST
+student_SUBST pupil_SUBST
+world_SUBST globe_SUBST
+leg_SUBST arm_SUBST
+plane_SUBST jet_SUBST
+woman_SUBST man_SUBST
+actress_SUBST actor_SUBST
+teacher_SUBST instructor_SUBST
+movie_SUBST film_SUBST
+word_SUBST dictionary_SUBST
+money_SUBST salary_SUBST
+dog_SUBST cat_SUBST
+area_SUBST region_SUBST
+navy_SUBST army_SUBST
+book_SUBST literature_SUBST
+child_SUBST adult_SUBST
+cow_SUBST cattle_SUBST
+book_SUBST story_SUBST
+winter_SUBST summer_SUBST
+taxi_SUBST cab_SUBST
+tree_SUBST maple_SUBST
+bed_SUBST bedroom_SUBST
+roof_SUBST ceiling_SUBST
+disease_SUBST infection_SUBST
+arm_SUBST shoulder_SUBST
+sheep_SUBST lamb_SUBST
+lady_SUBST gentleman_SUBST
+toe_SUBST finger_SUBST
+river_SUBST stream_SUBST
+date_SUBST calendar_SUBST
+sea_SUBST ocean_SUBST
+second_SUBST minute_SUBST
+hand_SUBST thumb_SUBST
+wood_SUBST log_SUBST
+mud_SUBST dirt_SUBST
+way_SUBST manner_SUBST
+mouse_SUBST cat_SUBST
+beer_SUBST alcohol_SUBST
+mouth_SUBST lip_SUBST
+tax_SUBST income_SUBST
+flower_SUBST violet_SUBST
+paper_SUBST cardboard_SUBST
+floor_SUBST ceiling_SUBST
+rod_SUBST curtain_SUBST
+hound_SUBST fox_SUBST
+street_SUBST alley_SUBST
+boat_SUBST deck_SUBST
+car_SUBST horn_SUBST
+friend_SUBST guest_SUBST
+employer_SUBST employee_SUBST
+hand_SUBST wrist_SUBST
+ball_SUBST cannon_SUBST
+alcohol_SUBST brandy_SUBST
+victory_SUBST triumph_SUBST
+door_SUBST doorway_SUBST
+clothes_SUBST cloth_SUBST
+steak_SUBST meat_SUBST
+nail_SUBST thumb_SUBST
+band_SUBST orchestra_SUBST
+book_SUBST bible_SUBST
+business_SUBST industry_SUBST
+winter_SUBST season_SUBST
+decade_SUBST century_SUBST
+alcohol_SUBST gin_SUBST
+hat_SUBST coat_SUBST
+window_SUBST door_SUBST
+arm_SUBST wrist_SUBST
+house_SUBST apartment_SUBST
+glass_SUBST crystal_SUBST
+wine_SUBST brandy_SUBST
+dinner_SUBST breakfast_SUBST
+arm_SUBST muscle_SUBST
+bread_SUBST flour_SUBST
+death_SUBST tragedy_SUBST
+absence_SUBST presence_SUBST
+gun_SUBST cannon_SUBST
+grass_SUBST blade_SUBST
+ball_SUBST basket_SUBST
+hose_SUBST garden_SUBST
+boy_SUBST kid_SUBST
+church_SUBST choir_SUBST
+clothes_SUBST drawer_SUBST
+tower_SUBST bell_SUBST
+father_SUBST parent_SUBST
+school_SUBST grade_SUBST
+parent_SUBST adult_SUBST
+bar_SUBST jail_SUBST
+car_SUBST highway_SUBST
+dictionary_SUBST definition_SUBST
+door_SUBST cellar_SUBST
+chair_SUBST bench_SUBST
+cloud_SUBST fog_SUBST
+boy_SUBST son_SUBST
+water_SUBST ice_SUBST
+bed_SUBST blanket_SUBST
+area_SUBST zone_SUBST
+business_SUBST company_SUBST
+clothes_SUBST fabric_SUBST
+money_SUBST capital_SUBST
+hand_SUBST foot_SUBST
+alcohol_SUBST cocktail_SUBST
+yard_SUBST inch_SUBST
+molecule_SUBST atom_SUBST
+lens_SUBST camera_SUBST
+meal_SUBST dinner_SUBST
+eye_SUBST tear_SUBST
+god_SUBST devil_SUBST
+loop_SUBST belt_SUBST
+rat_SUBST mouse_SUBST
+motor_SUBST engine_SUBST
+car_SUBST cab_SUBST
+cat_SUBST lion_SUBST
+reality_SUBST fantasy_SUBST
+door_SUBST gate_SUBST
+cat_SUBST pet_SUBST
+bone_SUBST jaw_SUBST
+cereal_SUBST wheat_SUBST
+house_SUBST key_SUBST
+blood_SUBST flesh_SUBST
+door_SUBST corridor_SUBST
+god_SUBST spirit_SUBST
+sofa_SUBST chair_SUBST
+wall_SUBST brick_SUBST
+horn_SUBST drum_SUBST
+organ_SUBST liver_SUBST
+phrase_SUBST word_SUBST
+band_SUBST parade_SUBST
+stomach_SUBST waist_SUBST
+cloud_SUBST storm_SUBST
+joy_SUBST pride_SUBST
+rain_SUBST mist_SUBST
+man_SUBST uncle_SUBST
+apple_SUBST juice_SUBST
+intelligence_SUBST logic_SUBST
+communication_SUBST language_SUBST
+shore_SUBST coast_SUBST
+wire_SUBST cord_SUBST
+bird_SUBST turkey_SUBST
+supper_SUBST meal_SUBST
+bar_SUBST cage_SUBST
+water_SUBST salt_SUBST
+situation_SUBST condition_SUBST
+crime_SUBST theft_SUBST
+style_SUBST fashion_SUBST
+boundary_SUBST border_SUBST
+arm_SUBST body_SUBST
+boat_SUBST car_SUBST
+sandwich_SUBST lunch_SUBST
+bride_SUBST princess_SUBST
+insect_SUBST bee_SUBST
+animal_SUBST person_SUBST
+bed_SUBST hospital_SUBST
+cheek_SUBST tongue_SUBST
+disc_SUBST computer_SUBST
+curve_SUBST angle_SUBST
+grass_SUBST moss_SUBST
+school_SUBST law_SUBST
+foot_SUBST head_SUBST
+mother_SUBST guardian_SUBST
+mouth_SUBST tooth_SUBST
+breakfast_SUBST bacon_SUBST
+bathroom_SUBST bedroom_SUBST
+plate_SUBST bowl_SUBST
+meat_SUBST bacon_SUBST
+worker_SUBST employer_SUBST
+body_SUBST chest_SUBST
+son_SUBST father_SUBST
+heart_SUBST surgery_SUBST
+woman_SUBST secretary_SUBST
+man_SUBST father_SUBST
+beach_SUBST island_SUBST
+story_SUBST topic_SUBST
+game_SUBST fun_SUBST
+weekend_SUBST week_SUBST
+couple_SUBST pair_SUBST
+woman_SUBST wife_SUBST
+sheep_SUBST cattle_SUBST
+purse_SUBST bag_SUBST
+ceiling_SUBST cathedral_SUBST
+bean_SUBST coffee_SUBST
+wood_SUBST paper_SUBST
+top_SUBST side_SUBST
+crime_SUBST fraud_SUBST
+pain_SUBST harm_SUBST
+father_SUBST daughter_SUBST
+cow_SUBST goat_SUBST
+belief_SUBST opinion_SUBST
+reality_SUBST illusion_SUBST
+wealth_SUBST poverty_SUBST
+accident_SUBST emergency_SUBST
+friend_SUBST teacher_SUBST
+illness_SUBST infection_SUBST
+game_SUBST trick_SUBST
+brother_SUBST son_SUBST
+aunt_SUBST nephew_SUBST
+worker_SUBST mechanic_SUBST
+oak_SUBST maple_SUBST
+bee_SUBST queen_SUBST
+car_SUBST bicycle_SUBST
+august_SUBST month_SUBST
+army_SUBST squad_SUBST
+cloud_SUBST weather_SUBST
+river_SUBST valley_SUBST
+sun_SUBST sky_SUBST
+target_SUBST arrow_SUBST
+chocolate_SUBST pie_SUBST
+circumstance_SUBST situation_SUBST
+opinion_SUBST choice_SUBST
+gut_SUBST nerve_SUBST
+day_SUBST dawn_SUBST
+cattle_SUBST beef_SUBST
+doctor_SUBST professor_SUBST
+arm_SUBST vein_SUBST
+room_SUBST bath_SUBST
+corporation_SUBST business_SUBST
+fun_SUBST football_SUBST
+hill_SUBST cliff_SUBST
+bone_SUBST ankle_SUBST
+apple_SUBST candy_SUBST
+helper_SUBST maid_SUBST
+leader_SUBST manager_SUBST
+lemon_SUBST tea_SUBST
+bee_SUBST ant_SUBST
+basketball_SUBST baseball_SUBST
+rice_SUBST bean_SUBST
+bed_SUBST furniture_SUBST
+emotion_SUBST passion_SUBST
+machine_SUBST engine_SUBST
+beach_SUBST sea_SUBST
+alley_SUBST bowl_SUBST
+jar_SUBST bottle_SUBST
+strength_SUBST capability_SUBST
+seed_SUBST mustard_SUBST
+guitar_SUBST drum_SUBST
+opinion_SUBST idea_SUBST
+north_SUBST west_SUBST
+diet_SUBST salad_SUBST
+mother_SUBST wife_SUBST
+dad_SUBST mother_SUBST
+captain_SUBST sailor_SUBST
+meter_SUBST yard_SUBST
+beer_SUBST champagne_SUBST
+motor_SUBST boat_SUBST
+card_SUBST bridge_SUBST
+science_SUBST psychology_SUBST
+sinner_SUBST saint_SUBST
+destruction_SUBST construction_SUBST
+crowd_SUBST bunch_SUBST
+beach_SUBST reef_SUBST
+man_SUBST child_SUBST
+bread_SUBST cheese_SUBST
+champion_SUBST winner_SUBST
+celebration_SUBST ceremony_SUBST
+menu_SUBST order_SUBST
+king_SUBST princess_SUBST
+danger_SUBST threat_SUBST
+god_SUBST priest_SUBST
+teacher_SUBST helper_SUBST
+body_SUBST stomach_SUBST
+tongue_SUBST throat_SUBST
+house_SUBST carpet_SUBST
+intelligence_SUBST skill_SUBST
+brother_SUBST soul_SUBST
+monster_SUBST demon_SUBST
+day_SUBST morning_SUBST
+friend_SUBST guy_SUBST
+song_SUBST story_SUBST
+ray_SUBST sunshine_SUBST
+guy_SUBST stud_SUBST
+chicken_SUBST rice_SUBST
+butter_SUBST potato_SUBST
+apartment_SUBST furniture_SUBST
+salad_SUBST vinegar_SUBST
+flower_SUBST bulb_SUBST
+cloud_SUBST mist_SUBST
+driver_SUBST pilot_SUBST
+sugar_SUBST honey_SUBST
+body_SUBST shoulder_SUBST
+idea_SUBST image_SUBST
+father_SUBST brother_SUBST
+moon_SUBST planet_SUBST
+ball_SUBST costume_SUBST
+rail_SUBST fence_SUBST
+room_SUBST bed_SUBST
+flower_SUBST bush_SUBST
+bone_SUBST knee_SUBST
+arm_SUBST knee_SUBST
+bottom_SUBST side_SUBST
+vessel_SUBST vein_SUBST
+cat_SUBST rabbit_SUBST
+meat_SUBST sandwich_SUBST
+belief_SUBST concept_SUBST
+intelligence_SUBST insight_SUBST
+attention_SUBST interest_SUBST
+attitude_SUBST confidence_SUBST
+right_SUBST justice_SUBST
+argument_SUBST agreement_SUBST
+medium_SUBST news_SUBST
+winner_SUBST candidate_SUBST
+birthday_SUBST date_SUBST
+fee_SUBST payment_SUBST
+bible_SUBST hymn_SUBST
+exit_SUBST doorway_SUBST
+aisle_SUBST hall_SUBST
+floor_SUBST deck_SUBST
+roof_SUBST floor_SUBST
+door_SUBST floor_SUBST
+shoulder_SUBST head_SUBST
+wagon_SUBST carriage_SUBST
+car_SUBST carriage_SUBST
+elbow_SUBST ankle_SUBST
+administration_SUBST management_SUBST
+communication_SUBST conversation_SUBST
+pollution_SUBST atmosphere_SUBST
+college_SUBST profession_SUBST
+book_SUBST topic_SUBST
+formula_SUBST equation_SUBST
+book_SUBST information_SUBST
+boy_SUBST partner_SUBST
+sky_SUBST universe_SUBST
+population_SUBST people_SUBST
+college_SUBST class_SUBST
+chief_SUBST mayor_SUBST
+meter_SUBST inch_SUBST
+lawyer_SUBST banker_SUBST
+violin_SUBST instrument_SUBST
+camp_SUBST cabin_SUBST
+pot_SUBST appliance_SUBST
+girl_SUBST child_SUBST
+cottage_SUBST cabin_SUBST
+bird_SUBST hen_SUBST
+racket_SUBST noise_SUBST
+sunset_SUBST evening_SUBST
+adult_SUBST baby_SUBST
+head_SUBST nail_SUBST
+log_SUBST timber_SUBST
+spoon_SUBST cup_SUBST
+body_SUBST nerve_SUBST
+man_SUBST husband_SUBST
+bone_SUBST neck_SUBST
+frustration_SUBST anger_SUBST
+river_SUBST sea_SUBST
+task_SUBST job_SUBST
+club_SUBST society_SUBST
+reflection_SUBST image_SUBST
+prince_SUBST king_SUBST
+snow_SUBST weather_SUBST
+people_SUBST party_SUBST
+boy_SUBST brother_SUBST
+root_SUBST grass_SUBST
+money_SUBST pearl_SUBST
+money_SUBST diamond_SUBST
+vehicle_SUBST bus_SUBST
+cab_SUBST bus_SUBST
+house_SUBST barn_SUBST
+finger_SUBST palm_SUBST
+car_SUBST bridge_SUBST
+effort_SUBST difficulty_SUBST
+fact_SUBST insight_SUBST
+job_SUBST management_SUBST
+cancer_SUBST sickness_SUBST
+word_SUBST newspaper_SUBST
+actor_SUBST singer_SUBST
+shelter_SUBST hut_SUBST
+bathroom_SUBST kitchen_SUBST
+cabin_SUBST hut_SUBST
+door_SUBST kitchen_SUBST
+value_SUBST belief_SUBST
+wisdom_SUBST intelligence_SUBST
+ignorance_SUBST intelligence_SUBST
+happiness_SUBST luck_SUBST
+idea_SUBST scheme_SUBST
+mood_SUBST emotion_SUBST
+happiness_SUBST peace_SUBST
+logic_SUBST arithmetic_SUBST
+argument_SUBST criticism_SUBST
+chemistry_SUBST theory_SUBST
+comfort_SUBST safety_SUBST
+confidence_SUBST self_SUBST
+vision_SUBST perception_SUBST
+era_SUBST decade_SUBST
+biography_SUBST fiction_SUBST
+discussion_SUBST argument_SUBST
+code_SUBST symbol_SUBST
+danger_SUBST disease_SUBST
+journey_SUBST trip_SUBST
+activity_SUBST movement_SUBST
+gossip_SUBST news_SUBST
+father_SUBST god_SUBST
+action_SUBST course_SUBST
+fever_SUBST illness_SUBST
+game_SUBST action_SUBST
+molecule_SUBST air_SUBST
+home_SUBST state_SUBST
+word_SUBST literature_SUBST
+adult_SUBST guardian_SUBST
+newspaper_SUBST information_SUBST
+communication_SUBST television_SUBST
+cousin_SUBST uncle_SUBST
+author_SUBST reader_SUBST
+guy_SUBST partner_SUBST
+area_SUBST corner_SUBST
+wall_SUBST decoration_SUBST
+word_SUBST page_SUBST
+nurse_SUBST scientist_SUBST
+politician_SUBST president_SUBST
+president_SUBST mayor_SUBST
+book_SUBST essay_SUBST
+man_SUBST warrior_SUBST
+article_SUBST journal_SUBST
+breakfast_SUBST supper_SUBST
+crowd_SUBST parade_SUBST
+hip_SUBST lip_SUBST
+book_SUBST article_SUBST
+room_SUBST cell_SUBST
+daughter_SUBST kid_SUBST
+limb_SUBST leg_SUBST
+liver_SUBST lung_SUBST
+bed_SUBST couch_SUBST
+clothes_SUBST button_SUBST
+clothes_SUBST coat_SUBST
+kidney_SUBST organ_SUBST
+apple_SUBST sauce_SUBST
+chicken_SUBST steak_SUBST
+car_SUBST hose_SUBST
+tobacco_SUBST cigarette_SUBST
+student_SUBST professor_SUBST
+baby_SUBST daughter_SUBST
+pipe_SUBST cigar_SUBST
+milk_SUBST juice_SUBST
+box_SUBST cigar_SUBST
+apartment_SUBST hotel_SUBST
+cup_SUBST cone_SUBST
+throat_SUBST nose_SUBST
+bone_SUBST elbow_SUBST
+bacon_SUBST bean_SUBST
+cup_SUBST jar_SUBST
+proof_SUBST fact_SUBST
+appointment_SUBST engagement_SUBST
+birthday_SUBST year_SUBST
+word_SUBST clue_SUBST
+atom_SUBST carbon_SUBST
+letter_SUBST paragraph_SUBST
+page_SUBST paragraph_SUBST
+muscle_SUBST bone_SUBST
+muscle_SUBST tongue_SUBST
+boy_SUBST soldier_SUBST
+guy_SUBST girl_SUBST
+bed_SUBST chair_SUBST
+clothes_SUBST jacket_SUBST
+gun_SUBST knife_SUBST
+tin_SUBST metal_SUBST
+bottle_SUBST container_SUBST
+hen_SUBST turkey_SUBST
+meat_SUBST bread_SUBST
+arm_SUBST bone_SUBST
+apple_SUBST lemon_SUBST
+agony_SUBST grief_SUBST
+assignment_SUBST task_SUBST
+night_SUBST dawn_SUBST
+dinner_SUBST soup_SUBST
+calf_SUBST bull_SUBST
+snow_SUBST storm_SUBST
+nail_SUBST hand_SUBST
+dog_SUBST horse_SUBST
+arm_SUBST neck_SUBST
+ball_SUBST glove_SUBST
+flu_SUBST fever_SUBST
+fee_SUBST salary_SUBST
+nerve_SUBST brain_SUBST
+beast_SUBST animal_SUBST
+dinner_SUBST chicken_SUBST
+girl_SUBST maid_SUBST
+child_SUBST boy_SUBST
+alcohol_SUBST wine_SUBST
+nose_SUBST mouth_SUBST
+street_SUBST car_SUBST
+bell_SUBST door_SUBST
+box_SUBST hat_SUBST
+belief_SUBST impression_SUBST
+bias_SUBST opinion_SUBST
+attention_SUBST awareness_SUBST
+anger_SUBST mood_SUBST
+beauty_SUBST age_SUBST
+book_SUBST theme_SUBST
+friend_SUBST mother_SUBST
+vitamin_SUBST iron_SUBST
+car_SUBST factory_SUBST
+chapter_SUBST choice_SUBST
+arithmetic_SUBST rhythm_SUBST
+winner_SUBST presence_SUBST
+belief_SUBST flower_SUBST
+winner_SUBST goal_SUBST
+trick_SUBST size_SUBST
+choice_SUBST vein_SUBST
+jail_SUBST choice_SUBST
+condition_SUBST boy_SUBST
+hole_SUBST agreement_SUBST
+doctor_SUBST temper_SUBST
+task_SUBST woman_SUBST
+cent_SUBST size_SUBST
+presence_SUBST door_SUBST
+mouse_SUBST management_SUBST
+task_SUBST highway_SUBST
+task_SUBST straw_SUBST
+island_SUBST task_SUBST
+night_SUBST chapter_SUBST
+pollution_SUBST president_SUBST
+gun_SUBST trick_SUBST
+bath_SUBST trick_SUBST
+diet_SUBST apple_SUBST
+cent_SUBST wife_SUBST
+chapter_SUBST tail_SUBST
+course_SUBST stomach_SUBST
+hymn_SUBST straw_SUBST
+dentist_SUBST colonel_SUBST
+wife_SUBST straw_SUBST
+hole_SUBST wife_SUBST
+pupil_SUBST president_SUBST
+bath_SUBST wife_SUBST
+people_SUBST cent_SUBST
+formula_SUBST log_SUBST
+woman_SUBST fur_SUBST
+apple_SUBST sunshine_SUBST
+gun_SUBST dawn_SUBST
+meal_SUBST waist_SUBST
+camera_SUBST president_SUBST
+stomach_SUBST vein_SUBST
+gun_SUBST fur_SUBST
+couch_SUBST baseball_SUBST
+worker_SUBST camera_SUBST
+deck_SUBST mouse_SUBST
+rice_SUBST boy_SUBST
+people_SUBST gun_SUBST
+cliff_SUBST tail_SUBST
+ankle_SUBST window_SUBST
+princess_SUBST island_SUBST
+container_SUBST mouse_SUBST
+wagon_SUBST container_SUBST
+people_SUBST balloon_SUBST
+dollar_SUBST people_SUBST
+bath_SUBST balloon_SUBST
+stomach_SUBST bedroom_SUBST
+bicycle_SUBST bedroom_SUBST
+log_SUBST bath_SUBST
+bowl_SUBST tail_SUBST
+go_VERB come_VERB
+take_VERB steal_VERB
+listen_VERB hear_VERB
+occur_VERB happen_VERB
+multiply_VERB divide_VERB
+plead_VERB beg_VERB
+protect_VERB defend_VERB
+kill_VERB destroy_VERB
+create_VERB make_VERB
+accept_VERB reject_VERB
+ignore_VERB avoid_VERB
+carry_VERB bring_VERB
+leave_VERB enter_VERB
+choose_VERB elect_VERB
+lose_VERB fail_VERB
+make_VERB construct_VERB
+listen_VERB obey_VERB
+inform_VERB notify_VERB
+receive_VERB give_VERB
+borrow_VERB beg_VERB
+take_VERB obtain_VERB
+advise_VERB recommend_VERB
+win_VERB succeed_VERB
+think_VERB decide_VERB
+greet_VERB meet_VERB
+agree_VERB argue_VERB
+enjoy_VERB entertain_VERB
+destroy_VERB make_VERB
+save_VERB protect_VERB
+give_VERB lend_VERB
+understand_VERB know_VERB
+take_VERB receive_VERB
+accept_VERB acknowledge_VERB
+decide_VERB choose_VERB
+accept_VERB believe_VERB
+keep_VERB possess_VERB
+succeed_VERB fail_VERB
+spend_VERB save_VERB
+leave_VERB go_VERB
+come_VERB attend_VERB
+know_VERB believe_VERB
+gather_VERB meet_VERB
+make_VERB earn_VERB
+forget_VERB ignore_VERB
+multiply_VERB add_VERB
+shrink_VERB grow_VERB
+arrive_VERB leave_VERB
+succeed_VERB try_VERB
+accept_VERB deny_VERB
+arrive_VERB come_VERB
+agree_VERB differ_VERB
+send_VERB receive_VERB
+win_VERB dominate_VERB
+add_VERB divide_VERB
+kill_VERB choke_VERB
+acquire_VERB get_VERB
+participate_VERB join_VERB
+leave_VERB remain_VERB
+go_VERB enter_VERB
+take_VERB carry_VERB
+forget_VERB learn_VERB
+appoint_VERB elect_VERB
+engage_VERB marry_VERB
+ask_VERB pray_VERB
+go_VERB send_VERB
+take_VERB deliver_VERB
+speak_VERB hear_VERB
+analyze_VERB evaluate_VERB
+lose_VERB keep_VERB
+compare_VERB analyze_VERB
+go_VERB allow_VERB
+take_VERB possess_VERB
+learn_VERB listen_VERB
+destroy_VERB construct_VERB
+create_VERB build_VERB
+steal_VERB buy_VERB
+kill_VERB hang_VERB
+forget_VERB know_VERB
+create_VERB imagine_VERB
+do_VERB happen_VERB
+give_VERB deny_VERB
+deserve_VERB earn_VERB
+get_VERB put_VERB
+locate_VERB find_VERB
+appear_VERB attend_VERB
+pretend_VERB imagine_VERB
+satisfy_VERB please_VERB
+argue_VERB differ_VERB
+overcome_VERB dominate_VERB
+behave_VERB obey_VERB
+achieve_VERB try_VERB
+begin_VERB quit_VERB
+say_VERB participate_VERB
+come_VERB bring_VERB
+declare_VERB announce_VERB
+take_VERB leave_VERB
+acquire_VERB obtain_VERB
+conclude_VERB decide_VERB
+please_VERB plead_VERB
+argue_VERB prove_VERB
+ask_VERB plead_VERB
+find_VERB disappear_VERB
+inspect_VERB examine_VERB
+assume_VERB predict_VERB
+learn_VERB evaluate_VERB
+argue_VERB justify_VERB
+make_VERB become_VERB
+achieve_VERB succeed_VERB
+give_VERB put_VERB
+understand_VERB listen_VERB
+expand_VERB grow_VERB
+borrow_VERB sell_VERB
+keep_VERB protect_VERB
+explain_VERB prove_VERB
+assume_VERB pretend_VERB
+agree_VERB please_VERB
+forgive_VERB forget_VERB
+clarify_VERB explain_VERB
+understand_VERB forgive_VERB
+remind_VERB forget_VERB
+get_VERB remain_VERB
+realize_VERB discover_VERB
+ignore_VERB ask_VERB
+reject_VERB avoid_VERB
+argue_VERB persuade_VERB
+pursue_VERB persuade_VERB
+accept_VERB forgive_VERB
+do_VERB quit_VERB
+investigate_VERB examine_VERB
+discuss_VERB explain_VERB
+owe_VERB lend_VERB
+explore_VERB discover_VERB
+complain_VERB argue_VERB
+withdraw_VERB reject_VERB
+keep_VERB borrow_VERB
+beg_VERB ask_VERB
+arrange_VERB organize_VERB
+reduce_VERB shrink_VERB
+speak_VERB acknowledge_VERB
+give_VERB borrow_VERB
+kill_VERB defend_VERB
+disappear_VERB shrink_VERB
+deliver_VERB carry_VERB
+breathe_VERB choke_VERB
+acknowledge_VERB notify_VERB
+become_VERB seem_VERB
+pretend_VERB seem_VERB
+contemplate_VERB think_VERB
+determine_VERB predict_VERB
+please_VERB entertain_VERB
+remain_VERB retain_VERB
+pretend_VERB portray_VERB
+forget_VERB retain_VERB
+want_VERB choose_VERB
+lose_VERB get_VERB
+try_VERB think_VERB
+become_VERB appear_VERB
+leave_VERB ignore_VERB
+accept_VERB recommend_VERB
+leave_VERB wander_VERB
+keep_VERB give_VERB
+give_VERB allow_VERB
+bring_VERB send_VERB
+absorb_VERB learn_VERB
+acquire_VERB find_VERB
+leave_VERB appear_VERB
+create_VERB destroy_VERB
+begin_VERB go_VERB
+get_VERB buy_VERB
+collect_VERB save_VERB
+replace_VERB restore_VERB
+join_VERB add_VERB
+join_VERB marry_VERB
+accept_VERB deliver_VERB
+attach_VERB join_VERB
+put_VERB hang_VERB
+go_VERB sell_VERB
+communicate_VERB pray_VERB
+give_VERB steal_VERB
+add_VERB build_VERB
+bring_VERB restore_VERB
+portray_VERB decide_VERB
+organize_VERB become_VERB
+give_VERB know_VERB
+arrange_VERB require_VERB
+borrow_VERB want_VERB
+investigate_VERB pursue_VERB
+ignore_VERB explore_VERB
+bring_VERB complain_VERB
+enter_VERB owe_VERB
+portray_VERB notify_VERB
+remind_VERB sell_VERB
+absorb_VERB possess_VERB
+join_VERB acquire_VERB
+send_VERB attend_VERB
+gather_VERB attend_VERB
+absorb_VERB withdraw_VERB
+attend_VERB arrive_VERB

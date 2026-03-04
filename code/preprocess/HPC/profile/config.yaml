@@ -1,0 +1,11 @@
+jobs: 1
+latency-wait: 60
+printshellcmds: True
+cluster: >-
+    sbatch
+    --nodes=1
+    --ntasks=1
+    --cpus-per-task=1
+    --mem-per-cpu=64G
+    --time=08:30:00
+    --mail-type=ALL

@@ -1,0 +1,5 @@
+--vectorspace PATH-TO/LVC-event-duration/code/io/ppmi.txt
+--basis-dimension 2000
+--input-words PATH-TO/LVC-event-duration/code/io/projection_calibration/calibration_without_decade/calibration_words.txt
+--projection-words PATH-TO/LVC-event-duration/code/io/projection_calibration/calibration_without_decade/duration_liu_chersoni_NO_DECADE.csv
+--output PATH-TO/LVC-event-duration/code/io/projection_calibration/calibration_without_decade

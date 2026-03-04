@@ -1,0 +1,62 @@
+Cossim Spearman's Rho,Cossim p-value,Eucldist Spearman's Rho,Eucldist p-value,Dotprod Spearman's Rho,Dotprod p-value,#words not found,# pairs processed,% pairs processed
+
+0,6182262322066308;0,0005887562544347321;-0,4713784210010064;0,013064643568457115;0,5315219112453058;0,0043290406652196295;15;27;41,54
+
+
+Cosine Similarity Spearman's Rho: SignificanceResult(statistic=0.6182262322066308, pvalue=0.0005887562544347321)
+
+Euclidean Distance Spearman's Rho: SignificanceResult(statistic=-0.4713784210010064, pvalue=0.013064643568457115)
+
+Dot product Spearman's Rho: SignificanceResult(statistic=0.5315219112453058, pvalue=0.0043290406652196295)
+
+No word embedding found for 15 words
+
+Processed word pairs 27 pairs, 41.54%
+
+No word embedding found for:
+
+automobile_SUBST
+rooster_SUBST
+implement_SUBST
+oracle_SUBST
+grin_SUBST
+mound_SUBST
+voyage_SUBST
+monk_SUBST
+madhouse_SUBST
+serf_SUBST
+tumbler_SUBST
+wizard_SUBST
+magician_SUBST
+noon_SUBST
+autograph_SUBST
+
+Processed word pairs:
+
+gem_SUBST jewel_SUBST
+cemetery_SUBST graveyard_SUBST
+cushion_SUBST pillow_SUBST
+boy_SUBST lad_SUBST
+forest_SUBST woodland_SUBST
+coast_SUBST shore_SUBST
+cord_SUBST string_SUBST
+furnace_SUBST stove_SUBST
+food_SUBST fruit_SUBST
+bird_SUBST cock_SUBST
+bird_SUBST crane_SUBST
+lad_SUBST brother_SUBST
+glass_SUBST jewel_SUBST
+journey_SUBST car_SUBST
+hill_SUBST woodland_SUBST
+coast_SUBST hill_SUBST
+bird_SUBST woodland_SUBST
+cemetery_SUBST woodland_SUBST
+forest_SUBST graveyard_SUBST
+boy_SUBST sage_SUBST
+shore_SUBST woodland_SUBST
+coast_SUBST forest_SUBST
+asylum_SUBST cemetery_SUBST
+cushion_SUBST jewel_SUBST
+asylum_SUBST fruit_SUBST
+fruit_SUBST furnace_SUBST
+chord_SUBST smile_SUBST

@@ -1,0 +1,13 @@
+word
+hour_SUBST
+minute_SUBST
+second_SUBST
+long_ADJ
+short_ADJ
+day_SUBST
+week_SUBST
+weekend_SUBST
+month_SUBST
+year_SUBST
+century_SUBST
+decade_SUBST

@@ -1,0 +1,5 @@
+--vectorspace PATH-TO/LVC-event-duration/code/io/ppmi.txt
+--basis-dimension 2000
+--lvcs PATH-TO/LVC-event-duration/code/io/LVC-FVC-pairs.csv
+--projection-words PATH-TO/LVC-event-duration/code/io/duration_liu_chersoni.csv
+--output PATH-TO/LVC-event-duration/code/io/projection_plain_verbs/

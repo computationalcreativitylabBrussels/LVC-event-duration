@@ -1,0 +1,5 @@
+--vectorspace PATH-TO/LVC-event-duration/code/io/ppmi.txt
+--basis-dimension 2000
+--input-words PATH-TO/LVC-event-duration/code/io/projection_validation/calibration/calibration_words.txt
+--projection-words PATH-TO/LVC-event-duration/code/io/duration_liu_chersoni.csv
+--output PATH-TO/LVC-event-duration/code/io/projection_validation/calibration

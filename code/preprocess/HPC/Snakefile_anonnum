@@ -1,0 +1,15 @@
+rule anonymise_numerals_frequency_counts:
+	output:
+		log = "LOG_anonymise_numerals_frequency_counts.txt"
+	params: 
+		freqs="BNC_COMBINED-freq-no_ART-PUNC-UNC-TRUNC-INTERJ_pipeline.txt"
+	resources:
+		disk_mb=20000,
+		mem_mb=64000
+	shell:
+		"""
+		module purge
+		module load  Python/3.12.3-GCCcore-13.3.0
+
+		python3 anonymise_numerals_frequency_counts.py --freqs={params.freqs} --output=ignore > {output.log}
+		"""

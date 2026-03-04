@@ -1,0 +1,9 @@
+--input PATH-TO/LVC-event-duration/data/BNC_combined/no_ART-PUNC-UNC-TRUNC-INTERJ
+--freqs PATH-TO/LVC-event-duration/data/BNC_combined/ANON_NUM_-BNC_COMBINED-freq-no_ART-PUNC-UNC-TRUNC-INTERJ_pipeline.txt
+--output output/bnc_combined_filtered_basis
+--min-sentence-length 5
+--vocabulary-size 50000
+--freq-threshold 50
+--word-window 5
+--exclude-first 50
+--basis-dim 2000

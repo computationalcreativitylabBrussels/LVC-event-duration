@@ -1,0 +1,1233 @@
+give_VERB-punch_SUBST-punch_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.111         0.552              0.482           -0.96           1.921
+
+---------
+have_VERB-accident_SUBST-crash_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             0.58         0.283              0.524            0.44           0.608
+
+---------
+give_VERB-ring_SUBST-ring_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.481         0.683              0.488            0.44           0.537
+
+---------
+give_VERB-assurance_SUBST-assure_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.358         0.981              0.318           0.143           0.488
+
+---------
+take_VERB-approach_SUBST-approach_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -8.598             1              0.145           0.042           0.249
+
+---------
+have_VERB-rest_SUBST-rest_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            2.187         0.016              0.631           0.511           0.747
+
+---------
+take_VERB-rest_SUBST-rest_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             0.88         0.197              0.569           0.403           0.727
+
+---------
+have_VERB-sense_SUBST-sense_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.561         0.286              0.542           0.394           0.693
+
+---------
+give_VERB-taste_SUBST-taste_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -1.98           0.9              0.396            0.11           0.671
+
+---------
+give_VERB-try_SUBST-try_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.639          0.74              0.473           0.387           0.559
+
+---------
+have_VERB-try_SUBST-try_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            3.422         0.005              0.733           0.579           0.883
+
+---------
+make_VERB-effort_SUBST-try_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation              NaN            NA                 NA              NA              NA
+
+---------
+make_VERB-start_SUBST-start_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -3.397         0.999              0.349           0.257           0.441
+
+---------
+give_VERB-speech_SUBST-speak_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.605         0.726               0.44           0.196           0.695
+
+---------
+give_VERB-warning_SUBST-warn_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.553          0.99              0.329           0.188           0.472
+
+---------
+give_VERB-information_SUBST-inform_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.257         0.404              0.511           0.432           0.592
+
+---------
+have_VERB-smoke_SUBST-smoke_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.901         0.794              0.392           0.029           0.762
+
+---------
+take_VERB-action_SUBST-act_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.441             1               0.34           0.281           0.397
+
+---------
+make_VERB-submission_SUBST-submit_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -3.157         0.996              0.301           0.163           0.432
+
+---------
+give_VERB-hug_SUBST-hug_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -3.498         0.999              0.248           0.103           0.394
+
+---------
+give_VERB-encouragement_SUBST-encourage_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             -1.4         0.873              0.398            0.13           0.672
+
+---------
+have_VERB-shave_SUBST-shave_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.677         0.249              0.576           0.315           0.836
+
+---------
+have_VERB-run_SUBST-run_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.522         0.298              0.531            0.41           0.653
+
+---------
+take_VERB-kick_SUBST-kick_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             -3.1         0.963              0.194          -0.182            0.57
+
+---------
+give_VERB-kick_SUBST-kick_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.093         0.967              0.328           0.136           0.514
+
+---------
+have_VERB-kick_SUBST-kick_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            1.179         0.155              0.649           0.249           1.026
+
+---------
+give_VERB-summary_SUBST-summarise_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -4.417         0.951              0.167          -0.299           0.632
+
+---------
+pay_VERB-contribution_SUBST-contribute_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.795         0.788              0.444           0.289           0.597
+
+---------
+make_VERB-contribution_SUBST-contribute_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.593         0.994              0.379           0.287           0.472
+
+---------
+do_VERB-work_SUBST-work_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation              NaN            NA                 NA              NA              NA
+
+---------
+make_VERB-assessment_SUBST-assess_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.895         0.811              0.404           0.144           0.656
+
+---------
+have_VERB-gossip_SUBST-gossip_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.894         0.229                0.7          -0.881           2.281
+
+---------
+have_VERB-wash_SUBST-wash_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.096         0.463              0.508            0.33           0.693
+
+---------
+make_VERB-investment_SUBST-invest_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            2.185         0.094              0.694            0.25           1.143
+
+---------
+reach_VERB-agreement_SUBST-agree_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.374         0.642              0.481           0.208           0.765
+
+---------
+have_VERB-lead_SUBST-lead_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.775         0.243              0.609          -0.115           1.327
+
+---------
+take_VERB-lead_SUBST-lead_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.823         0.789              0.447           0.308            0.59
+
+---------
+give_VERB-presentation_SUBST-present_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.015         0.505              0.501           0.295           0.702
+
+---------
+commit_VERB-offence_SUBST-offend_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.909          0.98              0.232          -0.005           0.482
+
+---------
+give_VERB-recognition_SUBST-recognise_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.622         0.688              0.383          -1.674           2.574
+
+---------
+give_VERB-cuddle_SUBST-cuddle_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            2.104         0.056              0.665           0.425             0.9
+
+---------
+have_VERB-cuddle_SUBST-cuddle_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.403         0.344              0.551           0.204           0.909
+
+---------
+have_VERB-objection_SUBST-object_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.639         0.946              0.412           0.301           0.521
+
+---------
+make_VERB-copy_SUBST-copy_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.972         0.923               0.26          -0.182           0.688
+
+---------
+make_VERB-proposal_SUBST-propose_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -1.12         0.831              0.367          -0.269           0.965
+
+---------
+make_VERB-complaint_SUBST-complain_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.997         0.995              0.295           0.148           0.443
+
+---------
+make_VERB-comparison_SUBST-compare_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.205         0.584              0.475           0.189           0.769
+
+---------
+make_VERB-film_SUBST-film_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.825         0.799              0.451            0.33           0.571
+
+---------
+have_VERB-feel_SUBST-feel_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.019         0.512              0.496          -0.308           1.275
+
+---------
+make_VERB-fuss_SUBST-fuss_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.544         0.709              0.453           0.273           0.627
+
+---------
+make_VERB-order_SUBST-order_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.249         0.872               0.35           0.018           0.691
+
+---------
+do_VERB-damage_SUBST-damage_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.076         0.532              0.495           0.363           0.625
+
+---------
+take_VERB-measurement_SUBST-measure_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -6.799         0.995              0.134          -0.071            0.33
+
+---------
+take_VERB-measure_SUBST-measure_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -6.852         0.954              0.069          -0.588           0.723
+
+---------
+make_VERB-call_SUBST-call_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation          -11.895             1              0.233           0.187           0.278
+
+---------
+give_VERB-call_SUBST-call_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation          -14.975             1              0.235           0.201           0.272
+
+---------
+make_VERB-promise_SUBST-promise_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.376         0.354              0.563           0.135           1.033
+
+---------
+have_VERB-game_SUBST-play_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -4.521             1              0.367            0.31           0.428
+
+---------
+make_VERB-reference_SUBST-refer_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.378         0.982              0.344           0.198           0.484
+
+---------
+make_VERB-evaluation_SUBST-evaluate_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.829          0.21              0.634           0.117           1.157
+
+---------
+make_VERB-comment_SUBST-comment_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -2.66         0.996              0.417           0.355           0.477
+
+---------
+take_VERB-notice_SUBST-notice_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.076             1              0.364           0.312           0.417
+
+---------
+give_VERB-look_SUBST-look_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.916         0.959              0.376           0.232           0.519
+
+---------
+have_VERB-look_SUBST-look_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation              NaN            NA                 NA              NA              NA
+
+---------
+take_VERB-look_SUBST-look_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation              NaN            NA                 NA              NA              NA
+
+---------
+make_VERB-use_SUBST-use_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.838         0.997              0.386           0.305           0.467
+
+---------
+have_VERB-argument_SUBST-argue_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            1.258         0.106              0.546           0.474           0.616
+
+---------
+have_VERB-drink_SUBST-drink_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.838             1               0.39           0.354           0.428
+
+---------
+do_VERB-investigation_SUBST-investigate_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.076         0.468              0.511           0.018           1.031
+
+---------
+make_VERB-assumption_SUBST-assume_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.091         0.466              0.506           0.374           0.637
+
+---------
+make_VERB-joke_SUBST-joke_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.117             1              0.312           0.239           0.385
+
+---------
+make_VERB-adjustment_SUBST-adjust_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.599         0.277              0.571           0.259           0.877
+
+---------
+have_VERB-bite_SUBST-bite_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            3.103         0.006              0.719           0.566           0.868
+
+---------
+make_VERB-bid_SUBST-bid_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.694         0.982              0.251           0.026           0.476
+
+---------
+make_VERB-recommendation_SUBST-recommend_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.435             1              0.229           0.126           0.337
+
+---------
+make_VERB-move_SUBST-move_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            1.746         0.044              0.583           0.487           0.679
+
+---------
+give_VERB-lecture_SUBST-lecture_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -2.74         0.993              0.266           0.091           0.442
+
+---------
+take_VERB-picture_SUBST-photograph_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.352         0.988               0.35           0.225           0.476
+
+---------
+make_VERB-improvement_SUBST-improve_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation          -12.649         0.977              0.238          -0.002           0.482
+
+---------
+take_VERB-chance_SUBST-risk_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.077         0.861              0.436           0.317           0.554
+
+---------
+take_VERB-risk_SUBST-risk_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.336         0.629              0.481           0.367           0.595
+
+---------
+have_VERB-doubt_SUBST-doubt_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.472             1              0.269           0.185           0.353
+
+---------
+give_VERB-talk_SUBST-talk_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -4.92             1              0.312           0.234           0.389
+
+---------
+have_VERB-talk_SUBST-talk_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.503         0.986              0.386            0.29           0.484
+
+---------
+make_VERB-mention_SUBST-mention_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.572         0.686              0.432          -1.245           2.043
+
+---------
+make_VERB-decision_SUBST-decide_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -3.706             1              0.433           0.398           0.468
+
+---------
+take_VERB-decision_SUBST-decide_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -3.258         0.999               0.36           0.273           0.446
+
+---------
+reach_VERB-decision_SUBST-decide_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation          -13.585         0.995              0.115          -0.054           0.276
+
+---------
+give_VERB-kiss_SUBST-kiss_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -4.431             1              0.339           0.267            0.41
+
+---------
+have_VERB-kiss_SUBST-kiss_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.298         0.379              0.524           0.283           0.763
+
+---------
+make_VERB-cut_SUBST-cut_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -4.949             1              0.186           0.051            0.32
+
+---------
+give_VERB-support_SUBST-support_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.537         0.933               0.41           0.288           0.532
+
+---------
+make_VERB-suggestion_SUBST-suggest_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.068         0.527              0.496           0.376           0.617
+
+---------
+have_VERB-laugh_SUBST-laugh_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.769         0.228              0.534           0.446           0.622
+
+---------
+give_VERB-help_SUBST-help_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -3.438         0.997              0.294           0.168            0.42
+
+---------
+have_VERB-chat_SUBST-chat_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -4.21             1               0.39           0.339           0.441
+
+---------
+give_VERB-address_SUBST-address_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            2.706         0.006              0.637           0.535            0.74
+
+---------
+give_VERB-answer_SUBST-answer_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -4.291             1              0.383            0.33           0.437
+
+---------
+make_VERB-change_SUBST-change_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.143             1              0.343           0.282           0.405
+
+---------
+give_VERB-smile_SUBST-smile_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            1.537         0.138              0.606           0.259           0.964
+
+---------
+make_VERB-choice_SUBST-choose_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -2.69         0.994              0.374           0.278           0.472
+
+---------
+make_VERB-discovery_SUBST-discover_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            1.548         0.091              0.659           0.369            0.93
+
+---------
+have_VERB-smell_SUBST-smell_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -3.53         0.996              0.299            0.17           0.431
+
+---------
+take_VERB-drive_SUBST-drive_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.209          0.58               0.47          -0.094           1.036
+
+---------
+make_VERB-payment_SUBST-pay_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -4.065         0.998              0.233           0.079           0.384
+
+---------
+give_VERB-advice_SUBST-advise_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.984         0.843              0.462           0.384           0.539
+
+---------
+pay_VERB-attention_SUBST-attend_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -0.56         0.717              0.482           0.419           0.547
+
+---------
+make_VERB-progress_SUBST-progress_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -0.74         0.768              0.458           0.346           0.572
+
+---------
+give_VERB-push_SUBST-push_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.162         0.427              0.514            0.29           0.738
+
+---------
+take_VERB-care_SUBST-care_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.052             1               0.38           0.332           0.428
+
+---------
+make_VERB-allowance_SUBST-allow_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.883         0.805              0.439           0.294           0.585
+
+---------
+make_VERB-attempt_SUBST-attempt_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.088         0.533              0.482          -0.205           1.207
+
+---------
+play_VERB-part_SUBST-participate_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             1.41          0.08              0.587           0.463            0.71
+
+---------
+hold_VERB-meeting_SUBST-meet_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -5.432             1              0.265           0.168           0.362
+
+---------
+have_VERB-swim_SUBST-swim_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.617         0.272              0.567           0.304           0.829
+
+---------
+have_VERB-understanding_SUBST-understand_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.361         0.903              0.418           0.295           0.547
+
+---------
+make_VERB-offer_SUBST-offer_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.767         0.771              0.434           0.238           0.635
+
+---------
+take_VERB-shower_SUBST-shower_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.467         0.674              0.463           0.148           0.789
+
+---------
+give_VERB-shake_SUBST-shake_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            -1.68         0.916              0.317          -0.006           0.645
+
+---------
+make_VERB-statement_SUBST-state_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.795          0.96              0.414           0.319            0.51
+
+---------
+have_VERB-thought_SUBST-think_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation              NaN            NA                 NA              NA              NA
+
+---------
+give_VERB-miss_SUBST-miss_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -6.559         0.999              0.252           0.159           0.348
+
+---------
+have_VERB-cough_SUBST-cough_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.741         0.768              0.409           0.124            0.68
+
+---------
+take_VERB-breath_SUBST-breathe_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.106         0.545              0.494           0.368           0.616
+
+---------
+make_VERB-announcement_SUBST-announce_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.472          0.69              0.458           0.268           0.648
+
+---------
+give_VERB-shout_SUBST-shout_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.111         0.547              0.495           0.398           0.592
+
+---------
+have_VERB-walk_SUBST-walk_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            1.133         0.131              0.546           0.464           0.626
+
+---------
+take_VERB-walk_SUBST-walk_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -0.492         0.692              0.463           0.269           0.651
+
+---------
+have_VERB-dance_SUBST-dance_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             0.17         0.437              0.515           0.329           0.704
+
+---------
+give_VERB-guidance_SUBST-guide_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.689         0.993              0.231           0.023           0.436
+
+---------
+make_VERB-declaration_SUBST-declare_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.035         0.765              0.279          -1.464           2.145
+
+---------
+give_VERB-treatment_SUBST-treat_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.811          0.98              0.251           0.019           0.482
+
+---------
+give_VERB-assistance_SUBST-assist_VERB
+[[1]]
+[1] ""
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation            0.416          0.34               0.56           0.149           0.981
+
+---------
+take_VERB-step_SUBST-step_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -2.002         0.976              0.399           0.297           0.499
+
+---------
+make_VERB-appearance_SUBST-appear_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           15.106         0.002              0.939           0.792           1.096
+
+---------
+give_VERB-thanks_SUBST-thank_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation           -1.076         0.817              0.328          -0.597             1.2
+
+---------
+make_VERB-application_SUBST-apply_VERB
+[[1]]
+[1] "EXTREME OUTLIERS PRESENT"
+
+[[2]]
+     var   test[randomPerm] stat[randomPerm] p[randomPerm] relEff[randomPerm] cil[randomPerm] ciu[randomPerm]
+"V1"  V1 Random Permutation             -5.9             1              0.224           0.121           0.326
+
+---------
