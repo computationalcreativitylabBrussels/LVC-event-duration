@@ -1,4 +1,7 @@
 # How Long Does a Quick Kiss Take? Studying Event Duration of Light Verb Constructions Using Explicit Word Embeddings
+Repo for LREC 2026 paper "How Long Does a Quick Kiss Take? Studying Event Duration of Light Verb Constructions Using Explicit Word Embeddings" by Lin de Huybrecht , Geraint A. Wiggins
+
+contact details: lin.de.huybrecht@vub.be
 
 # Requirements
 All the required Python libraries are listed in `code/env.yml`.
